@@ -18,8 +18,8 @@ Note: I will update the repository as I progress through the specialization.
 
 *1. Course 1: Neural Networks and Deep Learning*
 
-	* [Week 2 - Python Basics with numpy (optional)] (programming assignmets/Python+Basics+With+Numpy+v3.ipynb)
-	* [Week 2 - Logistic Regression with a Neural Network mindset] (programming assignmets/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb)
-	* [Week 3 - Planar data classification with a hidden layer] (programming assignmets/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
-	* [Week 4 - Building your deep neural network: Step by Step] (programming assignmets/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb)
-	* [Week 4 - Deep Neural Network Application] (programming assignmets/Deep+Neural+Network+-+Application+v8.ipynb)
+	* [Week 2 - Python Basics with numpy (optional)] (programming assignments/Python+Basics+With+Numpy+v3.ipynb)
+	* [Week 2 - Logistic Regression with a Neural Network mindset] (programming assignments/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb)
+	* [Week 3 - Planar data classification with a hidden layer] (programming assignments/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
+	* [Week 4 - Building your deep neural network: Step by Step] (programming assignments/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb)
+	* [Week 4 - Deep Neural Network Application] (programming assignments/Deep+Neural+Network+-+Application+v8.ipynb)
