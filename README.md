@@ -17,7 +17,8 @@ Note: I will update the repository as I progress through the specialization.
 ## Programming Assignments
 
 1. *Course 1: Neural Networks and Deep Learning*
-	* [Week 2 - Python Basics with numpy (optional)](https://github.com/errearanhas/Deep-Learning/Programming%20Assignments/Python_Basics_With_Numpy_v3.ipynb)
+
+	* [Week 2 - Python Basics with numpy (optional)](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Python_Basics_With_Numpy_v3.ipynb)	
 	* [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Logistic_Regression_with_a_Neural_Network_mindset_v5.ipynb)
 	* [Week 3 - Planar data classification with a hidden layer](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
 	* [Week 4 - Building your deep neural network: Step by Step](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
