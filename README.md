@@ -23,3 +23,7 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 3 - Planar data classification with a hidden layer](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
 	* [Week 4 - Building your deep neural network: Step by Step](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
 	* [Week 4 - Deep Neural Network Application](https://github.com/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Deep_Neural_Network_Application_v8.ipynb)
+
+2. *Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization*
+
+	* ***loading...***
