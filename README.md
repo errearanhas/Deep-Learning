@@ -16,10 +16,10 @@ Note: I will update the repository as I progress through the specialization.
 
 ## Programming Assignments
 
-*1. Course 1: Neural Networks and Deep Learning*
+1. *Course 1: Neural Networks and Deep Learning*
 
 	* [Week 2 - Python Basics with numpy (optional)](Programming Assignments/Python+Basics+With+Numpy+v3.ipynb)
 	* [Week 2 - Logistic Regression with a Neural Network mindset](Programming Assignments/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb)
 	* [Week 3 - Planar data classification with a hidden layer](Programming Assignments/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
-	* [Week 4 - Building your deep neural network: Step by Step](Programming Assignments/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.ipynb)
+	* [Week 4 - Building your deep neural network: Step by Step](Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
 	* [Week 4 - Deep Neural Network Application](Programming Assignments/Deep+Neural+Network+-+Application+v8.ipynb)
