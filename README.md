@@ -5,7 +5,7 @@ Coursera Deep Learning Specialization from deeplearning.ai.
  * Younes Bensouda Mourri (Teaching Assistant). Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
-In this repository I will maintain my Programming Assignments for Deep Learning specialization on Coursera. Currently (July '19), I have just finished the first of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
+In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (July '19), I have just finished the first of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful for someone. :+1:
