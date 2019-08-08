@@ -1,9 +1,9 @@
 # Deep Learning Specialization on Coursera
 [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from deeplearning.ai.
 
- * Andrew Ng (Instructor). Adjunct Professor, Stanford University;
- * Kian Katanforoosh (Head Teaching Assistant). Lecturer of Computer Science at Stanford University;
- * Younes Bensouda Mourri (Teaching Assistant). Mathematical & Computational Sciences, Stanford University;
+ * *Instructor:* Andrew Ng. Adjunct Professor, Stanford University;
+ * *Head Teaching Assistant:* Kian Katanforoosh. Lecturer of Computer Science at Stanford University;
+ * *Teaching Assistant:* Younes Bensouda Mourri. Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
 In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (July '19), I have just finished the first of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
