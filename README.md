@@ -11,7 +11,7 @@ In this repository I will keep my Programming Assignments for Deep Learning spec
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful for someone. :+1:
 
-I have recently finished my MS in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general. Although formal learning (classmates, whiteboard, etc) is of great importance to me, I am very happy for so many free (or almost free) resources made available online, helping self service and on demand learning. So, I hope this humble repo can be useful for someone.
+I have recently finished my MS in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I am very happy for having so many good free (or almost free) resources available online, helping people all over the world with "on demand learning". So, I hope this humble repo can be useful for someone out there.
 
 Note: I will update the repository as I progress through the specialization.
 
