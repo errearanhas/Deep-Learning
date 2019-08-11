@@ -19,11 +19,11 @@ Note: I will update the repository as I progress through the specialization.
 
 1. *Course 1: Neural Networks and Deep Learning*
 
-	* [Week 2 - Python Basics with numpy (optional)](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Python_Basics_With_Numpy_v3.ipynb)	
-	* [Week 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Logistic_Regression_with_a_Neural_Network_mindset_v5.ipynb)
-	* [Week 3 - Planar data classification with a hidden layer](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
-	* [Week 4 - Building your deep neural network: Step by Step](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
-	* [Week 4 - Deep Neural Network Application](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Deep_Neural_Network_Application_v8.ipynb)
+	* [Week 2 - Python Basics with numpy (optional)](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy_v3.ipynb)	
+	* [Week 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v5.ipynb)
+	* [Week 3 - Planar data classification with a hidden layer](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6b.ipynb)
+	* [Week 4 - Building your deep neural network: Step by Step](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
+	* [Week 4 - Deep Neural Network Application](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%201:%20Neural%20Networks%20and%20Deep%20Learning/Deep_Neural_Network_Application_v8.ipynb)
 
 2. *Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization*
 
