@@ -29,4 +29,4 @@ Note: I will update the repository as I progress through the specialization.
 
 	* [Week 1 - Initialization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
 	
-	***loading***
+	***loading...***
