@@ -9,7 +9,7 @@
 In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (July '19), I have just finished the first of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
-**tl;dr** --> I hope this repo can be useful for someone. :+1:
+**tl;dr** --> I hope this repo can be useful for someone interested in Deep Learning. :+1:
 
 I have recently finished my MS in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I am very happy for having so many good free (or almost free) resources available online, helping people all over the world with "on demand learning". So, I hope this humble repo can be useful for someone out there.
 
@@ -30,4 +30,4 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 1 - Initialization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
 	* [Week 1 - Regularization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization_v2.ipynb)
 	
-	***loading***
+	***loading...***
