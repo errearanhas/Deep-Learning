@@ -28,5 +28,6 @@ Note: I will update the repository as I progress through the specialization.
 2. *Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization*
 
 	* [Week 1 - Initialization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+	* [Week 1 - Regularization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization_v2.ipynb)
 	
 	***loading...***
