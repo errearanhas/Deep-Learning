@@ -6,7 +6,7 @@
  * *Teaching Assistant:* Younes Bensouda Mourri. Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
-In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (July '19), I have just finished the first of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
+In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Aug '19), I have just finished the second of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful for someone interested in Deep Learning. :+1:
@@ -31,7 +31,7 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 1 - Regularization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization_v2.ipynb)
 	* [Week 1 - Gradient Checking](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient_Checking_v1.ipynb)
 	* [Week 2 - Optimization](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization_methods.ipynb)
-
+	* [Week 3 - Tensorflow](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow_Tutorial.ipynb)
 
 	
 	***loading...***
