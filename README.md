@@ -6,7 +6,7 @@
  * *Teaching Assistant:* Younes Bensouda Mourri. Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
-In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Aug '19), I have just finished the second of this 5 courses specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
+In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Sep '19), I have just finished the thirs of this 5-course specialization. All the content here available is taken from Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful for someone interested in Deep Learning. :+1:
@@ -34,4 +34,10 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 3 - Tensorflow](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%202%3A%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow_Tutorial.ipynb)
 
 	
-3. ***loading...***
+3. *Course 3: Structuring Machine Learning Projects*
+	
+	* No programming assignments.
+
+4. *Course 4: Convolutional Neural Networks*
+
+***loading...***
