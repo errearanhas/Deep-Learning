@@ -11,7 +11,7 @@ In this repository I will keep my Programming Assignments for Deep Learning spec
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful, as a reference, for someone interested in Deep Learning. :+1:
 
-I have recently finished my MSc in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I am very happy for having so many good free (or almost free) resources available online, helping people all over the world with "on demand learning". So, I hope this humble repo can be useful for someone out there.
+I recently finished my MSc in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I feel very happy in finding so many good free (or almost free) resources available online, helping people all over the world with "on demand learning". So, I hope this humble repo can be useful for someone out there.
 
 Note: I will update the repository as I progress through the specialization.
 
@@ -44,11 +44,10 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 1 - Convolutional Model: application](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Convolution_model_Application_v1.ipynb)
 
 
-
 ***loading...***
 
 5. *Course 5: Sequence Models*
 
-	* [Week 1 - Recurrent Neural Networks](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Building a Recurrent Neural Network - Step by Step - v1.ipynb)
+	* [Week 1 - Recurrent Neural Networks](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Building_a_Recurrent_Neural_Network-Step_by_Step-v1.ipynb)
 
 ***loading...***
