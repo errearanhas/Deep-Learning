@@ -6,7 +6,7 @@
  * *Teaching Assistant:* Younes Bensouda Mourri. Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
-In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Sep '19), I have just started the fourth of this 5-course specialization. All the content here available is taken from my assignments in Deep Learning Specialization site on Coursera (unless specified otherwise).
+In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Sep '19), I have just started the fourth and fifth courses of this 5-course specialization. All the content here available is taken from my assignments in Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful, as a reference, for someone interested in Deep Learning. :+1:
@@ -44,5 +44,11 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 1 - Convolutional Model: application](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Convolution_model_Application_v1.ipynb)
 
 
+
+***loading...***
+
+5. *Course 5: Sequence Models*
+
+	* [Week 1 - Recurrent Neural Networks](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Building a Recurrent Neural Network - Step by Step - v1.ipynb)
 
 ***loading...***
