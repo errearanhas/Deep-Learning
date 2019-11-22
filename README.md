@@ -6,7 +6,7 @@
  * *Teaching Assistant:* Younes Bensouda Mourri. Mathematical & Computational Sciences, Stanford University;
  
 ## Intro
-In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Sep '19), I have just started the fourth and fifth courses of this 5-course specialization. All the content here available is taken from my assignments in Deep Learning Specialization site on Coursera (unless specified otherwise).
+In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. Currently (Nov '19), I have just started the last course of this 5-course specialization. All the content here available is taken from my assignments in Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
 **tl;dr** --> I hope this repo can be useful, as a reference, for someone interested in Deep Learning. :+1:
@@ -42,9 +42,12 @@ Note: I will update the repository as I progress through the specialization.
 
 	* [Week 1 - Convolutional Model: step by step](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2.ipynb)
 	* [Week 1 - Convolutional Model: application](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Convolution_model_Application_v1.ipynb)
+	* [Week 2 - Keras Tutorial](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Keras_Tutorial_v2a.ipynb)
+	* [Week 2 - Residual Networks](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)
+	* [Week 3 - Car detection with YOLO](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb)
+	* [Week 4 - Art generation with Neural Style Transfer](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+	* [Week 4 - Face Recognition](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%204%3A%20Convolutional%20Neural%20Networks/Face_Recognition_v3a.ipynb)
 
-
-***loading...***
 
 5. *Course 5: Sequence Models*
 
