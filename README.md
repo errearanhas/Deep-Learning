@@ -9,11 +9,9 @@
 In this repository I will keep my Programming Assignments for Deep Learning specialization on Coursera. All the content here available is taken from my assignments in Deep Learning Specialization site on Coursera (unless specified otherwise).
 
 ## What is this repository for?
-**tl;dr** --> I hope this repo can be useful, as a reference, for someone interested in Deep Learning. :+1:
+**tl;dr** --> I hope this repository can be useful, as a reference, for someone interested in Deep Learning. :+1:
 
-I recently finished my MSc in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in Machine Learning and analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I feel very happy in finding so many good free (or almost free) resources available online, helping people all over the world with "on demand learning". So, I hope this humble repo can be useful for someone out there.
-
-Note: I will update the repository as I progress through the specialization.
+In 2019, I finished my MSc in Applied Mathematics, and just started a PhD in Artificial Intelligence. I have strong interest in machine learning and advanced analytics in general, and although formal learning (classmates, books, whiteboard, etc) is of great relevance to me, I feel happy to see so many good free (or almost free) learning resources available online, helping people all over the world with "on demand learning". So, I hope this repository can be useful for someone out there.
 
 ## Programming Assignments
 
@@ -56,6 +54,5 @@ Note: I will update the repository as I progress through the specialization.
 	* [Week 1 - Jazz improvisation with LSTM](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
 	* [Week 2 - Operations on word vectors](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Operations_on_word_vectors_v2a.ipynb)
 	* [Week 2 - Emojify](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Emojify_v2a.ipynb)
-
-
-***loading...***
+	* [Week 3 - Neural Machine Translation with Attention](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Neural_machine_translation_with_attention_v4a.ipynb)
+	* [Week 3 - Trigger Word Detection](https://nbviewer.jupyter.org/github/errearanhas/Deep-Learning/blob/master/Programming%20Assignments/Course%205%3A%20Sequence%20Models/Trigger_word_detection_v1a.ipynb)
